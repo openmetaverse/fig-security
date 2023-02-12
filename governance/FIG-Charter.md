@@ -3,9 +3,7 @@
 
 ## Overview of FIG
 
-Two concise lines explaining what this FIG does with bullet points of the major responsibilities
-
-- Responsibility
+The Security & Privacy Foundational Interest Group (FIG) is dedicated to fostering open source and standards to support the security, accessibility, and privacy practices for all foundational interest groups. It provides a proactive and reactive group that analyzes and provides insight into the schemas, standards and models through the lens of security and accessibility.
 
 ## Goals
 
@@ -13,7 +11,12 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## Scope
 
-- General scope of work not specific in nature
+* Identify and provide potential issues and solutions for security related to authentication, authorization, identity, wallets, accounting, and block/allow lists.
+* Define schemas with metadata to define levels of differential privacy and selective disclosure. 
+* Define models to implement potential usage of self-custodial data registries, zero-knowledge proofs, and wallet-based models.
+* Identify and create processes and models to define the operational burning of objects such as identities, wallets, assets, or digital data.
+* Extend or create policies and extensible schemas for the identification and enablement of accessibility, diversity, equity and inclusion across worlds, simulations, and communications.
+* Define policies and extensible schemas to enhance or mitigate child safety, behavioral controls, bans, and queryable consequence models within and across worlds and experiences.
 
 ## In scope
 
@@ -30,11 +33,10 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## FIG Links and lists:
 
-- Joining this FIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- [Discord](https://discord.gg/openmetaverse)
+- [Mailing list](https://lists.openmv.org/g/fig-securityprivacy)
+- [Issues/PRs](https://github.com/Open-MV/fig-security/issues)
+- [Meeting agenda & Notes](https://github.com/Open-MV/fig-security/discussions/categories/meetings)
 
 ## Roles and Organization Management
 
