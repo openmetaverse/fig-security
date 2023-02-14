@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Security and Privacy (FIG Security and Privacy).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Security and Privacy
 
 The Security & Privacy Foundational Interest Group (FIG) is dedicated to fostering open source and standards to support the security, accessibility, and privacy practices for all foundational interest groups. It provides a proactive and reactive group that analyzes and provides insight into the schemas, standards and models through the lens of security and accessibility.
